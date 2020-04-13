@@ -1,2 +1,2 @@
-# DDODashboard
-Dashboard for DDOWiki.
+# ACNH Suggestion Page
+A formatted website.
